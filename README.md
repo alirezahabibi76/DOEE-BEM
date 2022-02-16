@@ -3,6 +3,8 @@ Here is the comparison of the cooling demand energy of DOEE of Sharif university
 
 by Alireza Habibi, Hamidreza Fathi, Dr. Abbas Rajabi
 
+In this project the DOEE building is rotated in 4 different orientations and is placed in three different locations and the cooling demand of the building for the four months of summer time is calculated and compared.
+
 Summary of the results:
 ![image](https://user-images.githubusercontent.com/99800191/154305525-3bbb6d73-c15f-4800-ab8b-771c87f227e0.png)
 ![image](https://user-images.githubusercontent.com/99800191/154305552-7e8c5d30-411f-413b-843b-e4d0d96c65ff.png)
